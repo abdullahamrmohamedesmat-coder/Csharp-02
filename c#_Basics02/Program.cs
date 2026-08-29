@@ -75,7 +75,7 @@ namespace ConsoleApp1
             double price = 49.99;
             int r = (int)price;
             #endregion
-
+            //5st answer
             #region Conver class
             //Given string pagesText = "464";, convert it into an int using the Convert class.
 
