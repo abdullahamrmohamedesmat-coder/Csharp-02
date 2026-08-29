@@ -17,10 +17,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             #region Book
-            //All questions use the same theme: a Book with a Title and Pages. Try each one yourself before checking the answer.
-            // Create a Book class with a Title(string) and Pages(int). Create a Book object and store it in a variable of type object. Print it.
-            //Using the Book class above, print the result of calling ToString(), Equals() (compare book with itself), GetHashCode(), and GetType() on book.
-
+           //1st answer
 
             object obj01 = new Book { Title = "C#", Pages = 133 };
 
