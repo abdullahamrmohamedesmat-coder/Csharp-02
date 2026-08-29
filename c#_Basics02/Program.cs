@@ -68,7 +68,7 @@ namespace ConsoleApp1
             int pages = 300;
             double p = pages;
             #endregion
-
+            // 4st answer
             #region declare with cast
             //Declare a double price = 49.99; then convert it into an int using a cast.
 
