@@ -60,7 +60,7 @@ namespace ConsoleApp1
                 Console.WriteLine("Done");
             }
             #endregion
-
+            //3st answer 
             #region declare with cast
             //Declare an int pages = 300; then store it in a double variable without using a cast.
 
