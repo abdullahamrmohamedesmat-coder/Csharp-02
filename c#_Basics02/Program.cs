@@ -17,7 +17,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             #region Book
-           //1st answer
+           
 
             object obj01 = new Book { Title = "C#", Pages = 133 };
 
@@ -37,7 +37,7 @@ namespace ConsoleApp1
             // Compile - time error — you can't put text (string) into an int variable. 
             //int pages = 464; 
             #endregion
-
+            //2st answer
             #region Try
             //Write code that divides 10 by 0 inside a try block, catches the exception, prints "Cannot divide by zero", and then prints "Done" in a finally block.
 
